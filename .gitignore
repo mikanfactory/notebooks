@@ -1,6 +1,7 @@
 .venv
 nohup.out
 cache/
+__pycache__
 
 *.c
 *.so
