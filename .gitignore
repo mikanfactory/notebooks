@@ -1,3 +1,7 @@
 .venv
 nohup.out
 cache/
+
+*.c
+*.so
+build
