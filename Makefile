@@ -7,10 +7,10 @@ export PIPENV_VENV_IN_PROJECT := 1
 
 .PHONY: pipenv/*
 pipenv/install:
-		$(PIPENV) install $(PIPENV_OPTS)
+	$(PIPENV) install $(PIPENV_OPTS)
 pipenv/update:
-		$(PIPENV) $(@F)
+	$(PIPENV) $(@F)
 pipenv/graph:
-		$(PIPENV) $(@F)
+	$(PIPENV) $(@F)
 pipenv/check:
-		$(PIPENV) $(@F)
+	$(PIPENV) $(@F)
