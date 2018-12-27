@@ -2,6 +2,7 @@
 nohup.out
 cache/
 __pycache__
+dataset
 
 *.c
 *.so
