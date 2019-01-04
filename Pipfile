@@ -15,6 +15,7 @@ seaborn = "*"
 pystan = "*"
 jupyter = "*"
 arviz = "*"
+jupyterthemes = "*"
 
 [requires]
 python_version = "3.6"
