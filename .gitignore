@@ -3,6 +3,8 @@ nohup.out
 cache/
 __pycache__
 dataset
+BetterRnnlm.pkl
+Rnnlm.pkl
 
 *.c
 *.so
