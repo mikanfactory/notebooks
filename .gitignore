@@ -8,4 +8,5 @@ Rnnlm.pkl
 
 *.c
 *.so
+*.pyc
 build
