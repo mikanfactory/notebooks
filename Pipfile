@@ -16,6 +16,7 @@ pystan = "*"
 jupyter = "*"
 arviz = "*"
 jupyterthemes = "*"
+cupy-cuda90 = "*"
 
 [requires]
 python_version = "3.6"
